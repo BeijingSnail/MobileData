@@ -1,12 +1,6 @@
 # 高质量移动技术文章集合
 这里记录了我觉得非常不错的技术文章，包括Android、iOS以及Web等，还包括一些设计移动架构方面的文章
 
-**欢迎给我推荐你觉得不错的技术文章，给我提PR吧**
-
-# 技术博客
-[团队技术博客][1]
-
-
 # Android
 
 ## 性能优化
@@ -101,8 +95,6 @@
 # Others
 [微信朋友圈技术之道：三个人的后台团队与每日十亿的发布量][42]
 
-
-  [1]: http://bxbxbai.github.io/2015/09/29/why-a-team-should-write-a-blog/#%E5%9B%BD%E5%86%85%E5%A4%96%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2
   [2]: http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=400742125&idx=1&sn=5e29f5a1b87933a0916d8bd20b60fc29&scene=1&srcid=1210i89Yc5tQxQIzmzgi1ueR&key=ac89cba618d2d97635d5d6a5f0b44820373f25549c6834d3756cb3a946967119b41aaebee25bff630f70d9b2e4f00b38&ascene=0&uin=MTgzODQwMzIw&devicetype=iMac%20MacBookPro12,1%20OSX%20OSX%2010.11.2%20build%2815C50%29&version=11020201&pass_ticket=jlfW/%2bH53LBN3fmyiO8ooDFqBsyEzApBEnLbRPa0Ays=
   [3]: https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe&scene=1&srcid=1210DFbueej5ozLfEwamCHK2&key=ac89cba618d2d9763cd6ecd6e8642efa33ae1d77ce0c946e74ba294da6fe1a238001ffaf433fe5b042f57df02de27ef2&ascene=0&uin=MTgzODQwMzIw&devicetype=iMac%20MacBookPro12,1%20OSX%20OSX%2010.11.2%20build%2815C50%29&version=11020201&pass_ticket=jlfW/%2bH53LBN3fmyiO8ooDFqBsyEzApBEnLbRPa0Ays=
   [4]: http://tech.meituan.com/mt-android-resource-obfuscation.html
